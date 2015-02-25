@@ -1,0 +1,11 @@
+=encoding utf8
+
+=head1 Assets/Archives for Shlomi Fish's Fortunes collections of quotes.
+
+This repository collects the *.tar.gz archives for Shlomi Fish’s
+UNIX-like Fortune Cookie collection -
+L<http://www.shlomifish.org/humour/fortunes/> .  This collection is kept
+outside the main repository to avoid bloat, and because it is in flux.
+
+=cut
+
